@@ -1,6 +1,6 @@
 # 2byte
 
-2byte is a tool developed in python whose to convert an array of hex characters (05 0a 70 89 ...) and give a file as an output, composed of the bytes represented by that array. The array of bytes can be the ones seen in a hex editor.
+2byte is a tool developed in python whose purpose is to convert an array of hex characters (05 0a 70 89 ...) to raw bytes and output them to a file. The array of bytes can be the ones seen in a hex editor.
 
 ## Uses
 
